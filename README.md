@@ -31,15 +31,6 @@ An interactive quiz platform built with **React.js, Redux, TypeScript, Tailwind 
 
 - Smooth transitions using **Framer Motion**.
 
-✅ **Quiz History (Bonus)**
-
-- Saves **attempt history** using IndexedDB.
-
-✅ **Deployment**
-
-- Hosted on **Vercel / Netlify**.  
-  🔗 **Live Demo:** [Insert Deployment Link]
-
 ---
 
 ## 🚀 Tech Stack
